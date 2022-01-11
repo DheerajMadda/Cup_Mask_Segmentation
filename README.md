@@ -34,7 +34,7 @@ B) Run the cells of the jupyter notebook
 ```
 conda create -n <your_env_name> python=3.6
 conda activate <your_env_name>
-clone https://github.com/tensorflow/models/tree/v1.13.0
+download/clone this repo -> https://github.com/tensorflow/models/tree/v1.13.0
 pip install pillow lxml Cython contextlib2 jupyter matplotlib pandas opencv-python tensorflow==1.14.0
 conda install -c anaconda protobuf
 protoc models/research/object_detection/protos/*.proto --python_out=.
