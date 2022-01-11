@@ -1,5 +1,5 @@
 # Cup_Mask_Segmentation
-
+![02_test](https://user-images.githubusercontent.com/50489165/148882867-d7509d9d-cbcf-4535-b877-82d49d048591.jpg)
 
 ```
 docker pull dheerajmadda/cup_mask_segmentation
